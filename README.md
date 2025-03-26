@@ -36,5 +36,10 @@ Usage
 Once the server is running, open Swagger UI to test the API:
 http://127.0.0.1:8000/docs
 
+After running
 ![image](https://github.com/user-attachments/assets/2d8f727b-791a-4bfd-855a-18a712d4f1c9)
+![image](https://github.com/user-attachments/assets/10419ae4-fc0b-4ff8-b978-acdf460bfacc)
+![image](https://github.com/user-attachments/assets/113ab8f0-fda7-44fe-bef1-87512f49d36f)
+![image](https://github.com/user-attachments/assets/1c45e895-9b69-4bb6-a5d0-fca4b2c31691)
+![image](https://github.com/user-attachments/assets/c3ae7cd4-67d9-4ccd-914f-4af811bf615c)
 
